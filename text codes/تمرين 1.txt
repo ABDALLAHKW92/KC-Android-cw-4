@@ -1,4 +1,4 @@
-	public static void main(String[] args) {
+public static void main(String[] args) {
     System.out.println(totalGrade(7, 5));
 	    
 	      temperature(8); 
@@ -38,7 +38,6 @@ else if (num3 < 23){
 
 
 
-                            
         System.out.println(yes);
     }
 }
